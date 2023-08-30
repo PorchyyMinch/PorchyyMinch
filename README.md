@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C, Python, JS, Scala Spanish and English
 - 🔤 I speak Portuguese, English, Spanish and Lua 
 - 💞️ I’m looking to collaborate on Homebrew projects as well as some other ones
-- 📫 My discord is private sorryyyyyyyyyyyyyyyyyyyyyyyyyy
+- 📫 My discord does not exist anymore because uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
 <!---
 PorchyyMinch/PorchyyMinch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
